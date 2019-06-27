@@ -1,3 +1,0 @@
-Hello World, This is my first Git Commit.................Mohan,
-Hello World, This is my first Git Commit.................Sai,
-Hello World, This is my first Git Commit.................Ram...............
